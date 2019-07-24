@@ -1,0 +1,49 @@
+Which of the following programs is this pseudocode for?
+A. StoneMasonKarel.java
+B. CheckerboardKarel.java
+C. MidpointFinderKarel.java
+
+
+Your Pseudocode: A B C 
+
+A:
+1. move forward, turn right, move forward, turn left, move forward.
+2. pick the newspaper, turn around.
+3. turn right, move forward, turn left, move, turn left, turn around.
+
+B: 
+1. turn left, Beepers upward：
+	while there is no beeper in the place, 
+	put a beeper.
+	move.
+2. move to right from the top.
+3. turn right, Beepers downward:
+	while there is no beeper in the place,
+	put a beeper.
+4. move to right from the bottom.
+5. repeat Beepers upward process.
+6. move to right from top. 
+7. repeat Beepers downward process.
+8. turn left.
+
+C:
+1. draw line to right
+2. while left is clear: 
+      change position to draw line to left
+      draw line to left
+3. while right is clear:
+	  change position to draw line to right
+	  draw line to right
+
+D:
+1. put beepers to the end:
+	left, right, left, right... till the first line is filled. 
+	the last one is the middle point.
+2. clean all other beepers except the middle point one:
+	when front is clear,
+	pick up beeper and move.
+	turn around, 
+	keep moving while there is no beeper present.
+	and repeat the same above steps to the other side.
+3. Return back to the middle point.
+
