@@ -5,3 +5,4 @@ Assignment Projects at Stanford CS106A
 3. Breakout
 4. Bit Manipulation & ParaKarel
 5. Image Shop
+6. Name Surfer
